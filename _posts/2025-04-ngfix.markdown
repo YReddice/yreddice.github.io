@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Dynamic Detect and Fix Hardness for Efficient Approximate
+Nearest Neighbor Search"
+date:   2025-04-16 20:00:00 +00:00
+image: /images/ngfix.png
+categories: research
+authors: "Zhiyuan Hua, Qiji Mo, <strong>Zebin Yao</strong>, et al."
+# venue: "IEEE International Parallel & Distributed Processing Symposium, 2025"
+---
+We present a low-latency GPU search system for small batch processing that optimizes query bubble via dynamic batching, reduces sorting overhead with beam extend, eliminates TopK-merging overhead through GPU-CPU cooperation, and enhances resource utilization with adaptive tuning.

@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "ALGAS: A Low-latency GPU-Accelerated Approximate Nearest Neighbor Search System"
+date:   2025-02-16 20:00:00 +00:00
+image: /images/algas.png
+categories: research
+authors: "Yuanhui Chen, Lixiao Cui, <strong>Zebin Yao</strong>, Hao Zhou, et al."
+venue: "IEEE International Parallel & Distributed Processing Symposium, 2025"
+---
+We present a low-latency GPU search system for small batch processing that optimizes query bubble via dynamic batching, reduces sorting overhead with beam extend, eliminates TopK-merging overhead through GPU-CPU cooperation, and enhances resource utilization with adaptive tuning.
