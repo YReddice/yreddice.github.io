@@ -6,6 +6,6 @@ image: /images/ngfix.png
 categories: myresearch
 author: "Zebin Yao"
 authors: "Zhiyuan Hua, Qiji Mo, <strong>Zebin Yao</strong>, et al."
-# venue: ""
+venue: "In submission to Proceedings of the ACM SIGMOD International Conference on Management of Data"
 ---
 We propose a novel method for improving approximate nearest neighbor search performance in out-of-distribution scenarios by introducing Escape Hardness to dynamically identify and fix defective graph regions.
