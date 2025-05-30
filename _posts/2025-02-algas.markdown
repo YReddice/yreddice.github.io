@@ -4,6 +4,7 @@ title:  "ALGAS: A Low-latency GPU-Accelerated Approximate Nearest Neighbor Searc
 date:   2025-02-16 20:00:00 +00:00
 image: /images/algas.png
 categories: research
+author: "Zebin Yao"
 authors: "Yuanhui Chen, Lixiao Cui, <strong>Zebin Yao</strong>, Hao Zhou, et al."
 venue: "IEEE International Parallel & Distributed Processing Symposium, 2025"
 ---

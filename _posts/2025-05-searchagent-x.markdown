@@ -4,6 +4,7 @@ title:  "Demystifying and Enhancing the Efficiency of Large Language Model Based
 date:   2025-05-16 20:00:00 +00:00
 image: /images/searchagent-x.png
 categories: research
+author: "Zebin Yao"
 authors: "Tiannuo Yang*, <strong>Zebin Yao*</strong>, Bowen Jin, Lixiao Cui, et al."
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2505.12065
