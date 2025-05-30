@@ -7,5 +7,6 @@ categories: myresearch
 author: "Zebin Yao"
 authors: "Yuanhui Chen, Lixiao Cui, <strong>Zebin Yao</strong>, Hao Zhou, et al."
 venue: "IEEE International Parallel & Distributed Processing Symposium"
+paper: /pdfs/algas.pdf
 ---
 We present a low-latency GPU vector search system for small batch processing that optimizes query bubble via dynamic batching, reduces sorting overhead with beam extend, eliminates TopK-merging overhead through GPU-CPU cooperation, and enhances resource utilization with adaptive tuning.
