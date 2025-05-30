@@ -49,7 +49,7 @@
               </p>
             </td>
             <td style="padding:2.5%;width:40%;max-width:40%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/circle_bw_crop.jpg">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/photo.jpg">
             </td>
           </tr>
         </table>
@@ -108,7 +108,7 @@
               {% endif %}
               {% if post.githubstars %}
               <br>
-              <img src={{post.githubstars}}>
+              <a href="{{post.code}}"> <img src="{{post.githubstars}}"> </a> 
               <br>
               {% endif %}
               <p></p>
