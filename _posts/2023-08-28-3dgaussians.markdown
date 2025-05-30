@@ -3,7 +3,7 @@ layout: post
 title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
 date:   2023-08-28 22:21:59 +00:00
 image: /images/3dgaussian.jpg
-categories: research
+categories: myresearch
 author: "Leo Keselman"
 authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
 venue: "arXiv"
