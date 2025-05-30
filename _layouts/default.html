@@ -43,7 +43,7 @@
                 I have an MS in Computer Science (AI focus) from <a href="http://cs.stanford.edu">Stanford University</a>, where I was a research assistant for <a href="http://svl.stanford.edu/">Silvio Savarese</a> and a teaching assistant for <a href="http://svl.stanford.edu/">Fei-Fei Li</a> (<a href="http://vision.stanford.edu/teaching/cs131_fall1617/">CS131</a> & <a href="http://cs231n.stanford.edu/2017/">CS231N</a>). I have a BS in EECS from <a href="http://www.eecs.berkeley.edu/">UC Berkeley</a>, where I worked in <a href="https://people.eecs.berkeley.edu/~pister/">Kris Pister's</a> lab.
               </p> -->
               <p style="text-align:center">
-                <a target="_blank" href="zebin_yao@126.com"> Email</a> &nbsp;/&nbsp;
+                yaozb[AT]nbjl.nankai.edu.cn &nbsp;/&nbsp;
                 <a href="https://github.com/yreddice">GitHub</a> &nbsp;/&nbsp;
                 <a href="/pdfs/cv.pdf" target="_blank">CV</a>
               </p>
@@ -62,7 +62,7 @@
                 My primary research interests lie in developing high-performance vector database systems and their efficient applications in large language models, such as retrieval-augmented generation and search agents.
               </p>
               <p>
-                I am actively working on <strong>SearchAgent-X</strong><a href="https://github.com/tiannuo-yang/SearchAgent-X"><img src="https://img.shields.io/github/stars/tiannuo-yang/searchagent-x"></a>, a highly efficient system for reasoning-search interleaved large language model (LLM) agents. I am integrating <strong>SearchAgent-X</strong> into reasoning search agents with reinforcement learning, such as <a href="https://github.com/Agent-RL/ReCall"><strong>ReSearch</strong></a> and <a href="https://github.com/PeterGriffinJin/Search-R1"><strong>Search-R1</strong></a>, to accelerate model training.
+                I am actively working on <a href="https://github.com/tiannuo-yang/SearchAgent-X"><strong>SearchAgent-X</strong></a>, a highly efficient system for reasoning-search interleaved large language model (LLM) agents. I am integrating <strong>SearchAgent-X</strong> into reasoning search agents with reinforcement learning, such as <a href="https://github.com/Agent-RL/ReCall"><strong>ReSearch</strong></a> and <a href="https://github.com/PeterGriffinJin/Search-R1"><strong>Search-R1</strong></a>, to accelerate model training.
               </p>
             </td>
           </tr>
@@ -105,6 +105,11 @@
               {% endif %}
               {% if post.youtube %}
               <a href="{{post.youtube}}">youtube</a> /
+              {% endif %}
+              {% if post.githubstars %}
+              <br>
+              <img src={{post.githubstars}}>
+              <br>
               {% endif %}
               <p></p>
               {{ post.excerpt }}
