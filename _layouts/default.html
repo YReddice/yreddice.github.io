@@ -80,10 +80,11 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
+              {% if post.venue %}
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}

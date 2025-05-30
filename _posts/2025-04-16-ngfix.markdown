@@ -7,6 +7,6 @@ image: /images/ngfix.png
 categories: myresearch
 author: "Zebin Yao"
 authors: "Zhiyuan Hua, Qiji Mo, <strong>Zebin Yao</strong>, et al."
-# venue: "IEEE International Parallel & Distributed Processing Symposium, 2025"
+# venue: ""
 ---
 We present a low-latency GPU search system for small batch processing that optimizes query bubble via dynamic batching, reduces sorting overhead with beam extend, eliminates TopK-merging overhead through GPU-CPU cooperation, and enhances resource utilization with adaptive tuning.
