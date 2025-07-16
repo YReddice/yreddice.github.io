@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dynamic Detect and Fix Hardness for Efficient Approximate Nearest Neighbor Search"
-date:   2026-05-31 20:00:00 +00:00
+date:   2025-05-31 20:00:00 +00:00
 image: /images/ngfix.png
 categories: myresearch
 author: "Zebin Yao"
