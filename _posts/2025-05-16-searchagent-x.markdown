@@ -6,7 +6,7 @@ image: /images/searchagent-x.png
 categories: myresearch
 author: "Zebin Yao"
 authors: "Tiannuo Yang*, <strong>Zebin Yao*</strong>, Bowen Jin, Lixiao Cui, et al."
-venue: "arXiv"
+venue: "International Conference on Learning Representations, 2026"
 arxiv: https://arxiv.org/abs/2505.12065
 code: https://github.com/tiannuo-yang/SearchAgent-X
 githubstars: https://img.shields.io/github/stars/tiannuo-yang/searchagent-x
